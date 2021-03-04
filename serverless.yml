@@ -15,7 +15,6 @@ provider:
   runtime: nodejs10.x
   stage: ${opt:stage, 'dev'}
   region: eu-west-3
-  profile: pachamama
 
 custom:
   stackId: k8tl6k
