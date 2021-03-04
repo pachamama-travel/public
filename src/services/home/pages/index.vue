@@ -59,7 +59,7 @@
           </div>
           <div class="card-content">
             <div class="content">
-              <h4>Tristique senectus et netus et. </h4>
+              <h4>This is a content test. </h4>
               <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
               <p><a href="#">Learn more</a></p>
             </div>
