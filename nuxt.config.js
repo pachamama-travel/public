@@ -21,6 +21,9 @@ module.exports = {
   build: {
     standalone: true,
   },
+  modules: [
+    '@nuxtjs/sitemap'
+  ],
   render: {
     etag: false,
     compressor: { threshold: Infinity },
