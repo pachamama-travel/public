@@ -81,7 +81,7 @@
           </div>
           <div class="card-content">
             <div class="content has-text-centered">
-              <h3>Create your Travel Diary and Share your Experiences 🌍. </h3>
+              <h3>Create your Travel Diary and Share your Experiences 🌍</h3>
             </div>
           </div>
         </div>
